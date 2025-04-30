@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #0d0d0d, #1a1a1a, #3a2f1f);
+  background-attachment: fixed;
+  background-size: cover;
+  color: gold;
+}
+  /*.body_home{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #1a1a1a;
+    text-align: center;
+    color: gold;
+  }*/
+  
+  h1, h2, h3 {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  button, input, select {
+    font-family: inherit;
+  }
+  
+  img {
+    max-width: 100%;
+    
+  }
+  
+  .drinks {
+    padding: 20px;
+    
+  }
+  
+  .alphabet {
+    margin: 20px 0;
+  }
+  
+  select {
+    margin: 10px 0;
+  }
+  
